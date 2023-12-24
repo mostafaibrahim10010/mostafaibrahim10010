@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [[mostafa-mostafa.me](https://mostafa-mostafa.me/)]
+- 👨‍💻 All of my projects are available at [mostafa-mostafa.me](https://mostafa-mostafa.me/)
 
 - 💬 Ask me about **Android, Robotics**
 
